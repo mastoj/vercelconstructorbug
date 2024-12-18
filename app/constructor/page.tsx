@@ -1,6 +1,4 @@
-type Props = {};
-
-const ConstructorPage = (props: Props) => {
+const ConstructorPage = () => {
   return <div>ConstructorPage</div>;
 };
 
